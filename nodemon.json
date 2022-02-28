@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO PASS": "sms",
+        "JWT_KEY": "jwt_key"
+    }
+}
